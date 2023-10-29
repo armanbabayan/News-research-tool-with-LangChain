@@ -65,13 +65,9 @@ Start the server
 
 <div style="flex: 50%; padding: 5px;">
     <img src="https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png?fit=2400%2C1000&strip=all" alt="OpenAI" style="width:10%;">
-  </div>
-  <div style="flex: 50%; padding: 5px;">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain" style="width:10%;">
-  </div>
- <div style="flex: 50%; padding: 5px;">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" style="width:10%;">
-  </div>
+</div>
 
 ## Roadmap
 
